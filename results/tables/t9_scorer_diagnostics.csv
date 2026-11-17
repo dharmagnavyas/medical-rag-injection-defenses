@@ -1,0 +1,23 @@
+statistic,value
+judge calibration rows (qwen2.5:7b vs mistral:7b),600
+judge agreement,0.917
+judge Cohen's kappa,0.822
+"judge confusion (primary,second): 00/01/10/11",355/46/4/195
+judge decisions by qwen2.5:7b,8146
+judge decisions by letter_only,3329
+judge decisions by mistral:7b,1050
+judge decisions by empty,75
+rule_hit & judge agreement on attack rows,0.839
+genuine letters from option text (fallback),218
+llama3: doc_echo % (attack rows),0.0
+llama3: mean latency s,1.5
+mistral: doc_echo % (attack rows),0.2
+mistral: mean latency s,1.99
+qwen: doc_echo % (attack rows),0.0
+qwen: mean latency s,1.38
+gemma: doc_echo % (attack rows),0.0
+gemma: mean latency s,1.35
+meditron: doc_echo % (attack rows),11.9
+meditron: mean latency s,11.9
+biomistral: doc_echo % (attack rows),0.0
+biomistral: mean latency s,2.58

@@ -1,0 +1,8 @@
+,runs,no output,median words,mean latency s,attack outputs letter only,genuine: letter stated,genuine: letter from option text,genuine: no answer,document echo
+Llama 3 8B,3600,0,1.0,1.5,1040,1499,0,1,0
+Mistral 7B,3600,0,5.0,2.0,184,1454,34,12,6
+Qwen2.5 7B,3600,0,1.0,1.4,1050,1500,0,0,0
+Gemma 7B,3600,0,1.0,1.3,1048,1497,0,3,0
+Meditron 7B,3600,87,138.0,11.9,0,1466,17,17,515
+BioMistral 7B,3600,0,12.0,2.6,7,1176,167,157,2
+Total,21600,87,5.0,3.4,3329,8592,218,190,523

@@ -1,0 +1,11 @@
+condition,poisoned chunk retrieved,n,ASR %
+baseline,True,1710,"40.8 [38.5, 43.1]"
+baseline,False,90,"8.9 [4.6, 16.6]"
+sanitize,True,90,"33.3 [24.5, 43.6]"
+sanitize,False,1710,"8.4 [7.2, 9.8]"
+spotlight,True,1710,"40.1 [37.8, 42.4]"
+spotlight,False,90,"11.1 [6.1, 19.3]"
+struq,True,1710,"41.5 [39.1, 43.8]"
+struq,False,90,"10.0 [5.4, 17.9]"
+mapfilter,True,1710,"38.0 [35.7, 40.3]"
+mapfilter,False,90,"6.7 [3.1, 13.8]"

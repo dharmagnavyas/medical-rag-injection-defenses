@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.DS_Store
+# MPIB attack text and everything built from it stay local (dataset terms of use)
+data/benchmark/mpib_150.jsonl
+data/raw/
+data/docs/
+data/retrieval.jsonl
+kaggle_bundle/
+kaggle_score_bundle/
+kaggle.json
+results/manual_sample.csv

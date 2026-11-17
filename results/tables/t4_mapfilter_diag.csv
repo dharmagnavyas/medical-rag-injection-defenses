@@ -1,0 +1,4 @@
+,chunks,chunks changed,sentences removed,stage 2 (phrases),stage 3 (imperative),stage 4 (shape),items,a sentence removed,injection below half,injection unchanged
+clean genuine,900,9,9,5,4,0,0,0,0,0
+MPIB,0,0,0,8,36,0,142,37,10,109
+AdvBench,0,0,0,132,29,0,143,139,134,4

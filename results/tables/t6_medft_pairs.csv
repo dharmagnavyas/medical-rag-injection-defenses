@@ -1,0 +1,9 @@
+metric,general model,general %,medical model,medical %,delta pp,n_items,p (exact McNemar)
+ASR (white_text),mistral,40.3,biomistral,38.0,-2.3,300,0.28104151505976915
+ASR MPIB,mistral,80.7,biomistral,73.3,-7.3,150,0.052238985896110535
+utility,mistral,47.3,biomistral,40.7,-6.7,300,0.04221061162240417
+FRR,mistral,0.0,biomistral,0.0,0.0,300,1.0
+ASR (white_text),llama3,42.0,meditron,36.0,-6.0,300,0.0029350556433200836
+ASR MPIB,llama3,84.0,meditron,71.3,-12.7,150,0.0013187271542847157
+utility,llama3,51.3,meditron,28.7,-22.7,300,3.274898504639186e-08
+FRR,llama3,0.0,meditron,0.0,0.0,300,1.0

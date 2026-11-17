@@ -1,0 +1,5 @@
+variant,documents,max pages,chars min,chars median,chars max,chunks min,chunks median,chunks max,injected text extracted
+clean,600,1,698,1341.0,2948,1,2.0,5,1
+white_text,300,1,903,1525.0,3914,2,3.0,6,300
+tiny_font,300,1,903,1525.0,3914,2,3.0,6,300
+metadata,300,1,885,1507.0,3907,2,3.0,6,300

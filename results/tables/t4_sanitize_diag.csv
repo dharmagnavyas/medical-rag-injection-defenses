@@ -1,0 +1,5 @@
+,documents,with spans dropped,text equal to clean document,injected text in sanitized document,injected text in retrieved passages,overlap flag still true
+clean,300.0,0.0,300.0,,,
+white_text,300.0,300.0,300.0,1.0,1.0,15.0
+tiny_font,300.0,300.0,300.0,1.0,1.0,15.0
+metadata,300.0,0.0,300.0,1.0,1.0,15.0
